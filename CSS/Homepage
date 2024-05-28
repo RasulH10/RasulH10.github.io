@@ -1,1 +1,4 @@
-
+.dot
+{
+  list-style-type:square;    
+}
