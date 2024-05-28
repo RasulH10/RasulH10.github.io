@@ -2,7 +2,8 @@
 {
   list-style-type:square;    
 }
-body 
+
+.background
 {
   background-color:"DarkOrchid"; 
 }
