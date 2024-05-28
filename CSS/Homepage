@@ -5,5 +5,5 @@
 
 .background
 {
-  background-color:"DarkOrchid"; 
+  background-color:DarkOrchid; 
 }
