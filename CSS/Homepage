@@ -1,9 +1,0 @@
-.dot
-{
-  list-style-type:square;    
-}
-
-.background
-{
-  background-color:DarkOrchid; 
-}
